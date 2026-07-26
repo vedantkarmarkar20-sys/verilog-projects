@@ -13,6 +13,7 @@ Each project folder is self-contained and includes:
 * README: Contains the logic and explaination of the design. Only present for designs which I believe are more complex and harder to understand
 * RTL Schematics
 * Simulation Waveforms
+* Generated Truth Table
 
 ## Current Modules
 | Sr No. | Project Name |
