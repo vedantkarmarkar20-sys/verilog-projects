@@ -19,11 +19,12 @@ This project implements a 4-bit Universal Shift Register capable of holding data
 * Q[3:0]: 4-bit register output
 
 ## Operation Modes
-|sel | 
-| 00 | Hold; maintains current state (Q remains unchanged)
-| 01 | Shift left; pulls new bit from L
-| 10 | Shift right; pulls new bit from R
-| 11 | Parallel load; loads 4-bit data directly from D into Q 
+| sel | action
+|:---:|:--- |
+| 00  | Hold; maintains current state (Q remains unchanged)|
+| 01  | Shift left; pulls new bit from L|
+| 10  | Shift right; pulls new bit from R|
+| 11  | Parallel load; loads 4-bit data directly from D into Q|
 
 ## RTL Schematic
 ![USR Schematic](USR%20Schematic.png)
