@@ -29,5 +29,8 @@ This project implements a 4-bit Universal Shift Register capable of holding data
 ## RTL Schematic
 ![USR Schematic](USR%20Schematic.png)
 
+## Simulation Output
+![Table](Table.png)
+
 ## Simulation Waveform
 ![Waveform](Waveform.png)
