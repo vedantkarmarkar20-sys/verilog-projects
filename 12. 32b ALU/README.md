@@ -1,5 +1,5 @@
 # 32-Bit ALU for RISC-V
-This project implements a 32-bit Arithmetic Logic Unit (ALU) designed for RISC-V. It serves as the main execution unit handling addition, subtraction, bitwise logic, shifts, and comparisons using a strictly combinational architecture.
+This project implements a 32-bit Arithmetic Logic Unit (ALU) designed for RISC-V. It serves as the main execution unit handling addition, subtraction, bitwise logic, shifts, and comparisons using a combinational architecture.
 
 ## Files Included
 * `ALU_32b.v`: ALU module.
